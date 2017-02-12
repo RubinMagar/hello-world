@@ -1,2 +1,2 @@
 # hello-world
-I am a human and i like travelling
+this is my first repository for practising github ... ^_^
